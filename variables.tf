@@ -22,9 +22,10 @@ variable "instance_type" {
   type        = string
 }
 
-
 variable "instance_ami" {
 
   description = "my instance ami id"
   type        = string
 }
+
+
